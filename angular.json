@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "forms-reactive-assignment"
+    }
+  },
+  "defaultProject": "forms-reactive-assignment",
+  "cli": {
+    "analytics": "75bd1bfc-ea32-4feb-a9b2-9ad3ae9d5db3"
+  }
 }
